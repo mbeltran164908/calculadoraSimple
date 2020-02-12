@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadoraSimple</string>
+    <string name="tv_titulo">Calculadora Simple</string>
+    <string name="btn_suma">suma</string>
+    <string name="btn_resta">resta</string>
+    <string name="btn_multi">multi</string>
+    <string name="btn_división">división</string>
+    <string name="tv_resultado">Resultado:</string>
+    <string name="tv_num1">Número 1:</string>
+    <string name="tv_num2">Número 2:</string>
+</resources>
